@@ -3,7 +3,7 @@
 
 Simple portfolio project has been done with javaScript , HTML, SCSS different skills and technologies has been utilized and developed which is consider a new challenge for me as my first javascript project .
 
-Project Features :
+Project Features:
 
 1- JavaScript row code.
 2- SCSS.
